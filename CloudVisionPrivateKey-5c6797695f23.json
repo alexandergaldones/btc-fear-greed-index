@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bitshop-ph",
+  "private_key_id": "5c6797695f23c8c2f908b6010df8c3c93c08b129",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDPi9YWTCTBdO5c\nk8axmlhQOmGndXi7RqIRyniO4NN+jojt79kaCfOMHWvLl+rT2683yA9fQUlY0Mxt\n7FWIgwswtoDzrLhK2De4GJZ0sA8ypqZBM6X+4VrfGenJWqXUnLpnVddXlXh3Uyc0\nzIlJb2VtTwn+TIS40E/oGeiyazr8dMbP29BrDeP/x5bN0gciXv5zJQIPlCllkoPD\n3HR35S7VzSiBKrUPzRPytFdiXo7HJOeuZhemeWrOavlGnkb35C9HzMwcZ9Of2UvU\nVjBJCy24FkI8qlcKeBGreCndHTWbS4/jP1VpulD+neBvIi6ow0Jlm4SJJiEESh7n\n+6me1VSZAgMBAAECggEAExVeiApUTt17lVOZL3drq2TS2dz5Tu79s/kUAL83cymT\n+ZzWL4i+tiF2ae/8DaLjh5ODplSQc/Qu9+SFMNoryzzcuoslHuymouzP2Mbfft7H\n5rLjDn6WJnFxh6woF1aZ5SqFdG4v93jT4Az2iqQNhXGBD7rlcUDmOAc52D333IKN\n59oefk4tl+37NELs+xNL06VESxr1l20VTu3UWZGeOOi/jW6lWczTvuHmiUc6gdni\nkxkOnTMLkKsLb0plFjJm8iU3twgEiEitLPw8UludnKBDT7ECX9bLIk522yTWnb0U\nVyOTf92P5BnCxcnZYwsbxJumxRKiW+Y45W6rbxX+AQKBgQDqtI5Tb1OGtflFkGDn\npnz2hlHTncvpg7bk8BRKMRmvrxerssKCQPAhqKCj7m2wYxyMN3sZUmHmCpJfGagR\n2rJ8b12FKW6S4jnjTwSlj0cSp5copY8T9PJaKCHIAXdJ53ss14A5DHlvCEklkbk3\nKzVd4DYQrRRxgeAbOlYHOLNv+QKBgQDiYHaYv7bM18z+pMEFvUtZc55AL7YJkroH\nKfkivX4aMLGPPG2wHNqAcspQ196x/jpMeAnDWg3M0+DsqZzkoHysnqbD7BpSp9H8\nSh9xIDyWbG8hEbKVChZfBIBj/6+zr5QkrBRNwLPZ0eVNtCzucjucpxExjlnuGygh\n8Mm1L8dxoQKBgHoQVUUHTQVudqm7IOrZJ3x+9ud71aUon2IJikPbrWQ1R7ZATfC4\nHSskLAeV5O4rXZl+8UKGGewt61oSWdqPRux4bsbmeV9i0IBrhBsmnOwSxQaatALJ\nDZHd9VOzj3qcLO9xVHpXBoC8am5jj1Ql4KdmCDg8C7nMteTzPfKbhpbhAoGAGCl5\nnxYfWb/S1n8ZRxaMO1D23Bz7jgwGJQua1tVo5zy5RvOJNZnuzHT0GSrhTxg2esD5\nMcuj22/l+vyjjVd/1yDb5d+Gc7oL1KTItFdfgCK0vc/YwsWf26ZsWcAJreEYq81e\nIWpnB+G6Ws/XV+ADctX2JNbvzFVDtFOyA8/EtuECgYBEFI8A0C1GdyJ0Po8p3DaG\nfBJc2FrR0kuj3g4FrF/ISNpLOx23kKmDNJs8ps416//2eIXof/254/dQRVgOTR7n\nfUfPHe/h+DCtx4VnTou29G/dxZar01gUguzsonuk/GN05CfoYeWZhmN2AZx9HDye\notY7NABKFpGpXXKbzDk7rQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "btc-fear-and-greed-index@bitshop-ph.iam.gserviceaccount.com",
+  "client_id": "109222896301809148529",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/btc-fear-and-greed-index%40bitshop-ph.iam.gserviceaccount.com"
+}
